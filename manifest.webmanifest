@@ -1,0 +1,10 @@
+{
+  "name": "JIGAR AI",
+  "short_name": "JIGAR AI",
+  "description": "Your AI workspace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08060f",
+  "theme_color": "#08060f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
